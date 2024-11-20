@@ -1,3 +1,7 @@
+## 2.0.1
+
+* adding namespace in build gradle to fix android err
+
 ## 2.0.0
 
 * Android: Fixes #137 and #132
